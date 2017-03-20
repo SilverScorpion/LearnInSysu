@@ -1,0 +1,42 @@
+.heading {
+	font-family: Century Gothic, Futura, Verdana;
+	font-size:18pt;
+	color:#a4a400;
+	background-color:#f0f0f0;
+	text-decoration:underline;
+	text-align:left;
+}
+
+.main {
+	font-size:22pt;
+	text-align:center;
+	font-weight:bolder;
+}
+
+.texts {
+	font-family:Georgia, Garamond;
+	font-size:11pt;
+	margin:1px;
+}
+
+.circle {
+	list-style-type:circle;
+}
+
+div {
+	background-image:url(silverware.jpg);
+	background-repeat:repeat;
+	background-attachment:fixed;
+}
+
+span {
+	font-weight:bolder;
+}
+
+blockquote {
+	background-color:#ffffc8; 
+}
+
+a {
+	color:#a4a400;
+}

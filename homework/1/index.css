@@ -1,0 +1,13 @@
+.texts{
+	font-size:20pt;
+}
+
+.heading{
+	text-align:center;
+	font-size:30pt;
+	background-color:#090;
+}
+
+a:hover{
+	color:#0f0;
+}
